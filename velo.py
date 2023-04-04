@@ -45,5 +45,3 @@ print(f"\nLes 5 premières stations de vélos à {city} par nombre de vélos dis
 for i in range(5):
     station = sorted_stations[i]
     print(f"{i+1}. {station['name']} - {station['available_bikes']} vélos disponibles")
-
-print()
