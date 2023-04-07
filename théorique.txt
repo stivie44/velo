@@ -49,11 +49,11 @@ En conclusion, les bases de données relationnelles sont adaptées aux applicati
 
 4/ Déjà utilisé Python ? Explique brièvement ton expérience ou tes connaissances concernant le langage
 
-Oui j'ai déjà travaillé avec python lors d'un projet du groupe où nous devions faire un jeux de rôle avec plusieurs personnages. Et un projet avec une base de données Sql
+Oui j'ai déjà travaillé avec python lors d'un projet de groupe où nous devions faire un jeu de rôles avec plusieurs personnages. Et un projet avec une base de données Sql.
 
 
 5/ Déjà utilisé Wordpress ou Odoo ? Explique brièvement ton expérience ou tes connaissances concernant ces outils
 
-Oui j'ai déjà utilisé wordpress dans un projet lors de ma première année j'ai juste quelques bases mais j'ai pour objectif de développer un projet cette année
+Oui j'ai déjà utilisé wordpress dans un projet lors de ma première année, j'ai juste quelques bases mais j'ai pour objectif de développer un projet cette année.
 
 
